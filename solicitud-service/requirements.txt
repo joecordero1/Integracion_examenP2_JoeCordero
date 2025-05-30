@@ -1,0 +1,6 @@
+flask
+pyjwt
+requests
+zeep
+spyne
+lxml
